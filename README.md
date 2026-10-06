@@ -134,3 +134,11 @@ This analysis provides a framework for identifying high-quality mobile active us
 ---
 
 For questions or contributions, please open an issue or submit a pull request.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/mobile-movement-geo-analytics/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
