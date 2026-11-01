@@ -142,3 +142,11 @@ For questions or contributions, please open an issue or submit a pull request.
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/mobile-movement-geo-analytics/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Mobile-Movement-Geo-Analytics](assets/pixel-art.svg)
+
+A small visual signature for this repository.
