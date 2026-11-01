@@ -145,8 +145,8 @@ For questions or contributions, please open an issue or submit a pull request.
 
 
 <!-- codex-pixel-art -->
-## Pixel art
+## Project visual
 
-![Pixel art for Mobile-Movement-Geo-Analytics](assets/pixel-art.svg)
+![Pixel-art cover for Mobile-Movement-Geo-Analytics](assets/project-cover.png)
 
-A small visual signature for this repository.
+<sub>Pixel-art adaptation of [OpenMoji world map](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F5FA.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
